@@ -2,6 +2,8 @@
  TechQuest
 Gre odpalamy przez plik exe
 
+<iframe frameborder="0" src="https://itch.io/embed/3051163" width="552" height="167"><a href="https://dudeks1.itch.io/morelshroom">MorelShroom by DudekS1, natebi, haqed, twojstaryhades, KD1025, Lucy1222</a></iframe>
+
 ![Image](https://github.com/user-attachments/assets/4f472d24-779f-4c9d-8450-c6a08207af01)
 
 ![Image](https://github.com/user-attachments/assets/f9c861da-334a-44b8-bde8-0cc51b61b275)
